@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Tuğba</h1>
 <h3 align="center">A passionate Mobile Application Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Flutter/Java/Kotlin/Java Spring**
