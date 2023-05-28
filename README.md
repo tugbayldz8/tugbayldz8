@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuğba</h1>
 <h3 align="center">A passionate Mobile Application Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Flutter/Java/Kotlin**
+- 🌱 I’m currently learning **Flutter/Java**
 
 - 📫 How to reach me **tugbaay228@gmail.com**
 
